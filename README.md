@@ -14,6 +14,3 @@ I'm currently working on cybersecurity and CS projects.<br>I'm looking for colla
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LunasProject&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=LunasProject&icon=0&color=0)](https://visitcount.itsvg.in)
